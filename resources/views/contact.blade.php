@@ -24,7 +24,7 @@
 
     <header class="bg-blue-600 text-white py-6">
         <div class="container mx-auto text-center">
-            <h1 class="text-4xl font-bold">Bienvenue au Salon de Coiffure</h1>
+            <h1 class="text-4xl font-bold">Bienvenue au Salon de Coiffure zouzou</h1>
             <p class="mt-2">Où votre beauté est notre priorité</p>
         </div>
     </header>
